@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Test feature" skipped="0" tests="3" time="14.57" timestamp="2020-06-07 12:24:44"><testcase name="test scenario 1"/><testcase name="test scenario 2"><error message="localhost could not be reached" type="java.net.UnknownHostException">localhost could not be reached</error><system-err>localhost could not be reached
+com.prs.stepslibrary.TestSteps.whenSearchingOnGoogle(TestSteps.java:44)
+com.prs.stepdefs.TestStepDefs.iSearchOngoogle(TestStepDefs.java:21)
+cucumber.runner.Runner.runPickle(Runner.java:80)
+</system-err></testcase></testsuite>

@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.prs.runners.TestRunnerIT
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 16.64 s <<< FAILURE! - in com.prs.runners.TestRunnerIT
+test scenario 2(Test feature)  Time elapsed: 0.666 s  <<< ERROR!
+net.serenitybdd.core.exceptions.SerenityManagedException: localhost could not be reached
+

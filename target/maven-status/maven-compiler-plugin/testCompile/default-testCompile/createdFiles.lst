@@ -1,0 +1,5 @@
+com/prs/pageobjects/GooglePage.class
+com/prs/stepdefs/TestStepDefs.class
+com/prs/runners/TestRunnerIT.class
+com/prs/runners/TestRunner2IT.class
+com/prs/stepslibrary/TestSteps.class
